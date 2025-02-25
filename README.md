@@ -20,10 +20,10 @@ Each framework includes:
 
 ## 🔍 Quick Start
 
-1. **Browse frameworks** by navigating to the `/frameworks` directory
+1. **Browse frameworks** by navigating to the /frameworks directory
 2. **Select a framework** that matches your current need
 3. **Follow the implementation guide** in the framework's README
-4. **Copy and use the prompts** provided in the `/prompts` folder
+4. **Copy and use the prompts** provided in the /prompts folder
 5. **Customize** the approach based on your specific context
 
 ## 🌟 Featured Frameworks
